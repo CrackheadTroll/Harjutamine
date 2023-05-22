@@ -1,1 +1,5 @@
 Github on pilveteenus arendajatele
+Saan kasutada githubi õpingutes koodi ja muude failide hoidmiseks
+Github loodi aastal 2008 Tom Preston-Werner, Chris Wanstrath, P.J. Hyett ja Scott Chaocon poolt
+Alguses oli github suletud beta lähedastele kompaniidele
+10.Aprillil 2008 avati github publikule
